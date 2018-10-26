@@ -7,3 +7,4 @@ Graph used as reference:
 
 Input/Output:
 
+![Screenshot](inputoutput.png)
