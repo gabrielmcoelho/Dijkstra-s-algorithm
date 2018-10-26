@@ -1,6 +1,9 @@
 # Dijkstra-s-algorithm
 Implementation of the Dijkstra's shortest path algorithm
 
-Input:
+Graph used as reference:
 
 ![Screenshot](input.png)
+
+Input/Output:
+
